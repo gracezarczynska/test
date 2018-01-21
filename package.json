@@ -10,5 +10,8 @@
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test --env=jsdom"
+  },
+  "devDependencies": {
+    "ramda": "^0.25.0"
   }
 }
