@@ -12,6 +12,8 @@
     "test": "react-scripts test --env=jsdom"
   },
   "devDependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "prop-types": "^15.6.0",
     "ramda": "^0.25.0"
   }
 }
